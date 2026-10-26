@@ -7,6 +7,7 @@
   <meta name="theme-color" content="#10182b">
   <title>Runqi Wang — Academic Homepage</title>
   <link rel="stylesheet" href="static/css/main.css">
+  <script defer src="static/js/marked.min.js"></script>
   <script defer src="static/js/main.js"></script>
 </head>
 <body id="page-top">
@@ -40,127 +41,35 @@
     <section class="content-section home-section" id="home" aria-labelledby="home-heading">
       <div class="container">
         <h2 class="section-heading" id="home-heading"><span class="section-number">01</span>Runqi (Allen) Wang <span lang="zh-Hans">王润祺</span></h2>
-        <div class="social-links" aria-label="Profiles">
-          <a class="social scholar" href="https://scholar.google.com/citations?user=yVI9KikAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">✥ Google Scholar</a>
-          <a class="social orcid" href="https://orcid.org/0009-0009-0029-4575" target="_blank" rel="noopener noreferrer">ⓘ ORCID</a>
-          <a class="social openreview" href="https://openreview.net/profile?id=~Runqi_Wang5" target="_blank" rel="noopener noreferrer">OpenReview</a>
-          <a class="social github" href="https://github.com/runqiwang777" target="_blank" rel="noopener noreferrer">◉ GitHub</a>
-          <a class="social kaggle" href="https://www.kaggle.com/runqiallenwang" target="_blank" rel="noopener noreferrer">Kaggle</a>
-          <a class="social linkedin" href="https://www.linkedin.com/in/runqi-wang-4352a03a7/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-          <a class="social xiaohongshu" href="https://www.xiaohongshu.com/user/profile/64ac022b000000001001ebb3" target="_blank" rel="noopener noreferrer">Xiaohongshu</a>
-        </div>
-
-        <div class="prose intro-prose">
-          <h3>👋 Profile</h3>
-          <p>My name is <strong>Runqi (Allen) Wang</strong>. I am an undergraduate student at the <a href="https://math.sjtu.edu.cn/">School of Mathematical Sciences</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, pursuing a double major in <strong>Mathematics and Applied Mathematics</strong> and <strong>Artificial Intelligence</strong>.</p>
-          <p>During my undergraduate studies, I have conducted research under the guidance of Prof. <a href="https://xutongliu.me/">Xutong Liu</a>, Prof. <a href="https://xuchuangw.com/">Xuchuang Wang</a>, and Prof. <a href="https://shuaili8.github.io/">Shuai Li</a>. I plan to join the PhD program in Statistics at SJTU in Fall 2027 under the supervision of Prof. <a href="https://qf.sjtu.edu.cn/en/about/members/lin/">Yiqing Lin</a>. I am interested in work connecting rigorous theory with real-world applications, and I am always happy to exchange ideas.</p>
-
-          <h3>📬 Contact</h3>
-          <p>✉ <a href="mailto:allen-w@sjtu.edu.cn">allen-w@sjtu.edu.cn</a> (preferred) &nbsp;|&nbsp; <a href="mailto:runqiwang777@gmail.com">runqiwang777@gmail.com</a></p>
-
-          <h3>🎓 Education</h3>
-          <p><strong>Shanghai Jiao Tong University</strong><br>B.S. in Mathematics &amp; Applied Mathematics and Artificial Intelligence · Sep 2023 – Jun 2027 (expected)</p>
-
-          <h3>🔍 Research Interests</h3>
-          <p>My interests lie in <strong>machine learning, AI agents, and quantitative finance</strong>, especially theoretical decision-making and AI-driven quantitative research. On the theoretical side, I study sequential decisions such as multi-armed bandits and reinforcement learning. On the applied side, I explore statistical learning methods for financial modeling and data-driven investment decisions.</p>
-
-          <h3>💻 Skills</h3>
-          <p><strong>Programming:</strong> Python, C++, MATLAB, R<br><strong>Research &amp; development:</strong> Git, LaTeX, Linux, Lean<br><strong>Web development:</strong> HTML, CSS, JavaScript</p>
-        </div>
+        <div class="markdown-content prose intro-prose" data-markdown="contents/home.md" aria-live="polite"></div>
       </div>
     </section>
 
     <section class="content-section alt-section" id="publications" aria-labelledby="publications-heading">
       <div class="container">
         <h2 class="section-heading" id="publications-heading"><span class="section-number">02</span><span class="heading-icon" aria-hidden="true">▤</span> Publications</h2>
-        <div class="entry-list">
-          <article class="entry-card publication-card">
-            <div class="entry-art publication-art bandits-art" aria-hidden="true"><span>U</span><small>Unlearning Bandits</small></div>
-            <div class="entry-text">
-              <h3>📘 <a href="https://arxiv.org/abs/2605.00638" target="_blank" rel="noopener noreferrer">Unlearning Stochastic Multi-Armed Bandits with Offline Data</a></h3>
-              <p>Zichun Ye*, <strong>Runqi Wang*</strong>, Xuchuang Wang, Xutong Liu, Shuai Li, Mohammad Hajiesmaili.</p>
-              <p><em>In submission.</em></p>
-              <p>We introduce machine unlearning for stochastic multi-armed bandits with offline data and establish provable unlearning guarantees.</p>
-            </div>
-          </article>
-          <article class="entry-card publication-card">
-            <div class="entry-art publication-art semi-art" aria-hidden="true"><span>CMOSS</span><small>Combinatorial Semi-Bandits</small></div>
-            <div class="entry-text">
-              <h3>📘 <a href="https://arxiv.org/abs/2508.06247" target="_blank" rel="noopener noreferrer">Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits</a></h3>
-              <p>Zichun Ye, <strong>Runqi Wang</strong>, Xutong Liu, Shuai Li.</p>
-              <p><em>In submission.</em></p>
-              <p>We propose an efficient algorithm achieving near-optimal regret for stochastic combinatorial semi-bandits.</p>
-            </div>
-          </article>
-        </div>
+        <div class="markdown-content" data-markdown="contents/publications.md" aria-live="polite"></div>
       </div>
     </section>
 
     <section class="content-section" id="projects" aria-labelledby="projects-heading">
       <div class="container">
         <h2 class="section-heading" id="projects-heading"><span class="section-number">03</span><span class="heading-icon" aria-hidden="true">▱</span> Projects</h2>
-        <div class="entry-list">
-          <article class="entry-card">
-            <div class="entry-art stock-art" aria-hidden="true"><span class="chart-line">⌁</span><small>Stock selection</small></div>
-            <div class="entry-text">
-              <h3>📈 Deep Sequential Models for Cross-Sectional Stock Selection</h3>
-              <p class="entry-date"><em>May 2026 – Jun 2026.</em></p>
-              <p>Comparison of deep learning models for cross-sectional stock selection.</p>
-            </div>
-          </article>
-          <article class="entry-card">
-            <div class="entry-art alphalens-art" aria-hidden="true"><span>α</span><small>AlphaLens</small></div>
-            <div class="entry-text">
-              <h3>🤖 AlphaLens: A Lightweight Skill-based Framework for Quantitative Research Analysis</h3>
-              <p class="entry-date"><em>July 2026.</em></p>
-              <p>A lightweight skill-based framework for analyzing quantitative research reports from a senior researcher's perspective.</p>
-            </div>
-          </article>
-          <article class="entry-card">
-            <div class="entry-art tracer-art" aria-hidden="true"><span>∴</span><small>TRACER · Lean 4</small></div>
-            <div class="entry-text">
-              <h3>🧩 TRACER: Typed Repair Agent with Compiler-validated Example Retrieval</h3>
-              <p class="entry-date"><em>August 2026 – present.</em></p>
-              <p>A research toolkit for Lean 4 proof repair, failure reproduction, and evaluation, developed with collaborators.</p>
-            </div>
-          </article>
-        </div>
-        <p class="section-note">Project repository links can be restored after they are available under the new GitHub account.</p>
+        <div class="markdown-content" data-markdown="contents/projects.md" aria-live="polite"></div>
       </div>
     </section>
 
     <section class="content-section alt-section" id="experience" aria-labelledby="experience-heading">
       <div class="container prose">
         <h2 class="section-heading" id="experience-heading"><span class="section-number">04</span><span class="heading-icon" aria-hidden="true">◇</span> Experience</h2>
-        <h3>🔬 Research Experience</h3>
-        <ul>
-          <li><strong>Unlearning Offline Stochastic Multi-Armed Bandits</strong>, Jul 2025 – Feb 2026. Advisors: Prof. Xutong Liu, Prof. Xuchuang Wang, Prof. Mengfan Xu, Prof. Shuai Li, and Prof. Mohammad Hajiesmaili.</li>
-          <li><strong>Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits</strong>, Feb 2025 – Jun 2025. Advisors: Prof. Xutong Liu and Prof. Shuai Li.</li>
-        </ul>
-        <h3>🏢 Industry Experience</h3>
-        <ul><li><strong>Quantitative Research Intern</strong>, Yuewei Private Equity Fund Management, Shanghai, Jul 2026 – Aug 2026.</li></ul>
-        <h3>🏛️ Leadership Experience</h3>
-        <ul><li><strong>President</strong>, Student Union of the School of Mathematical Sciences, Shanghai Jiao Tong University, Dec 2024 – Nov 2025.</li></ul>
-        <h3>📚 Selected Academic Programs</h3>
-        <ul>
-          <li>Multi-Asset Portfolio Management Mini-Course, Jul 2026. Instructor: Prof. Inna Okounkova.</li>
-          <li>SJTU AI4Math Summer School, Aug 2026.</li>
-        </ul>
+        <div class="markdown-content" data-markdown="contents/experience.md" aria-live="polite"></div>
       </div>
     </section>
 
     <section class="content-section" id="awards" aria-labelledby="awards-heading">
       <div class="container prose">
         <h2 class="section-heading" id="awards-heading"><span class="section-number">05</span><span class="heading-icon" aria-hidden="true">♧</span> Awards</h2>
-        <ul>
-          <li>Mathematical Contest in Modeling, Finalist Prize (Top 1%), 2026.</li>
-          <li>China Undergraduate Mathematical Contest in Modeling, National First Prize (Top 0.5%), 2025.</li>
-          <li>Chenchen Guo's Scholarship of SJTU School of Mathematical Sciences, 2025.</li>
-          <li>Outstanding Student Leader, 2025.</li>
-          <li>The Tung Foundation's Scholarship of SJTU, 2024.</li>
-          <li>Second-Class Scholarship of SJTU, 2024.</li>
-          <li>Merit Student, 2024.</li>
-        </ul>
+        <div class="markdown-content" data-markdown="contents/awards.md" aria-live="polite"></div>
       </div>
     </section>
   </main>

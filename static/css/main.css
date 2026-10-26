@@ -63,6 +63,7 @@ a:hover { color: var(--heading); }
 .section-number { align-self: center; color: var(--accent); font: 700 .72rem/1 "Segoe UI", Arial, sans-serif; letter-spacing: .1em; }
 .heading-icon { align-self: center; color: var(--accent); font: 400 2.1rem/1 "Segoe UI Symbol", sans-serif; }
 .social-links { display: flex; flex-wrap: wrap; align-items: center; gap: .38rem; margin: -.2rem 0 2.7rem; }
+.intro-prose .social-links + h3 { margin-top: 0; }
 .social { display: inline-flex; align-items: center; min-height: 1.5rem; padding: .07rem .38rem; color: #fff; font-size: .78rem; line-height: 1.35; text-decoration: none; border: 1px solid rgba(255,255,255,.15); }
 .social:hover { color: #fff; filter: brightness(1.18); }
 .scholar { background: #5c85d2; } .orcid { background: #a6c53b; } .openreview { background: #7947bc; }
