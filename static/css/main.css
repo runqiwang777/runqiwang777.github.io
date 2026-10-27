@@ -50,7 +50,7 @@ a:hover { color: var(--heading); }
 .theme-toggle:hover, .menu-toggle:hover { color: var(--heading); border-color: var(--accent); }
 .menu-toggle { display: none; padding: .3rem .85rem; border-radius: .5rem; font-size: .8rem; text-transform: uppercase; }
 
-.hero { min-height: 315px; display: flex; align-items: center; background: linear-gradient(rgba(4, 8, 18, .48), rgba(4, 8, 18, .48)), url("../assets/campus-placeholder.svg") center 48% / cover no-repeat; }
+.hero { min-height: 315px; display: flex; align-items: center; background: linear-gradient(rgba(4, 8, 18, .48), rgba(4, 8, 18, .48)), url("../../contents/images/building.jpg") center 48% / cover no-repeat; }
 .hero-inner h1 { margin: 0; color: #fff; font: 400 clamp(3rem, 5.2vw, 4.7rem)/1.05 Georgia, "Times New Roman", serif; letter-spacing: -.035em; text-shadow: 0 1px 12px rgba(0, 0, 0, .18); }
 .portrait-band { height: 72px; background: #0d1425; }
 .portrait-anchor { position: relative; height: 100%; }
@@ -84,15 +84,11 @@ a:hover { color: var(--heading); }
 .entry-art small { position: relative; font-size: .76rem; letter-spacing: .04em; }
 .bandits-art { background: linear-gradient(135deg, #4e5fbb, #18214a); }
 .semi-art { background: linear-gradient(135deg, #368f9d, #152e5a); }
-.stock-art { background: linear-gradient(135deg, #477f9c, #182c56); }
-.alphalens-art { background: linear-gradient(135deg, #83a6e0, #24468e); }
 .tracer-art { background: linear-gradient(135deg, #5641a3, #162545); }
-.stock-art .chart-line { font-size: 4rem; transform: rotate(-11deg); }
 .entry-text { flex: 1; min-width: 0; }
 .entry-text h3 { margin: .05rem 0 .55rem; color: var(--heading); font-size: 1.05rem; font-weight: 700; line-height: 1.5; }
 .entry-text p { margin: .28rem 0; }
 .entry-date { color: var(--muted); }
-.section-note { margin: 1.5rem 0 0; color: var(--muted); font-size: .87rem; }
 .site-footer { padding: 3rem 0; background: #0b1324; color: #d1daed; text-align: center; }
 .site-footer p { margin: .45rem 0; }
 .site-footer a { color: #c4d1ff; }

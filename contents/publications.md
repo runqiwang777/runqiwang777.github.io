@@ -14,7 +14,7 @@
       <h3>📘 <a href="https://arxiv.org/abs/2508.06247" target="_blank" rel="noopener noreferrer">Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits</a></h3>
       <p>Zichun Ye, <strong>Runqi Wang</strong>, Xutong Liu, Shuai Li.</p>
       <p><em>In submission.</em></p>
-      <p>We propose an efficient algorithm achieving near-optimal regret for stochastic combinatorial semi-bandits.</p>
+      <p>We propose an efficient algorithm achieving near-optimal regret for stochastic combinatorial semi-bandits, shaving off the <math aria-label="log T"><mi mathvariant="normal">log</mi><mi>T</mi></math> term.</p>
     </div>
   </article>
 </div>
