@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Portrait placeholder">
-  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#eff3fc"/><stop offset="1" stop-color="#c9d5ee"/></linearGradient></defs>
-  <rect width="400" height="400" fill="url(#bg)"/>
-  <circle cx="200" cy="148" r="66" fill="#879bbd"/>
-  <path d="M82 365c5-89 42-139 118-139s113 50 118 139" fill="#6379a2"/>
-  <path d="M145 245l55 64 55-64" fill="#f9fbff" opacity=".85"/>
-  <text x="200" y="383" text-anchor="middle" fill="#314d80" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="4">RW</text>
-</svg>
