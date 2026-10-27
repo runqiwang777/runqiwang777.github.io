@@ -7,3 +7,5 @@ The textual biography, research descriptions, project names, personal informatio
 `static/js/marked.min.js` is Marked v5.1.0, copied from Sen Li's template. Marked is Copyright (c) 2011–2023 Christopher Jeffrey and is licensed under the MIT License. See the license notice in that file and [Marked's repository](https://github.com/markedjs/marked).
 
 Social profile icons are rendered by [Iconify](https://iconify.design/) using [Simple Icons](https://github.com/simple-icons/simple-icons) (CC0 1.0) and [Font Awesome Free](https://github.com/FortAwesome/Font-Awesome) (LinkedIn icon, CC BY 4.0; Copyright Fonticons, Inc.). The logos remain trademarks of their respective owners.
+
+The homepage uses [Newsreader](https://github.com/productiontype/Newsreader) for headings and [Inter](https://github.com/rsms/inter) for body text. Both are open-source fonts licensed under the SIL Open Font License 1.1 and load through Google Fonts.
