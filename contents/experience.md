@@ -13,5 +13,5 @@
 
 ### 📚 Selected Academic Programs
 
-- Multi-Asset Portfolio Management Mini-Course, Jul 2026. Instructor: Prof. Inna Okounkova.
+- Multi-Asset Portfolio Management Mini-Course, Jul 2026. Instructor: Prof. [Inna Okounkova](https://www.math.columbia.edu/mafn/mafn-faculty/).
 - SJTU AI4Math Summer School, Aug 2026.
