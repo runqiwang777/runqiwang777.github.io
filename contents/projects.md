@@ -1,6 +1,6 @@
 <div class="entry-list">
   <article class="entry-card">
-    <div class="entry-art tracer-art" aria-hidden="true"><span>∴</span><small>TRACER · Lean 4</small></div>
+    <a class="entry-art tracer-preview" href="contents/images/tracer.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the full-size TRACER project graphic"><img src="contents/images/tracer.jpg" alt="TRACER project workflow infographic" loading="lazy"></a>
     <div class="entry-text">
       <h3>🧩 TRACER: Typed Repair Agent with Compiler-validated Example Retrieval</h3>
       <p class="entry-date"><em>August 2026 – present.</em></p>
