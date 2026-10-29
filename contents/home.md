@@ -29,6 +29,4 @@ My interests lie in **machine learning, AI agents, and quantitative finance**. M
 
 ### 💻 Skills
 
-**Programming:** Python, C++, MATLAB, R  
-**Research & development:** Git, LaTeX, Linux, Lean  
-**Web development:** HTML, CSS, JavaScript
+**Programming:** Python, C++, MATLAB, R  |  **Research & development:** Git, LaTeX, Linux, Lean  |  **Web development:** HTML, CSS, JavaScript
