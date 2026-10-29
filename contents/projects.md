@@ -9,12 +9,12 @@
     </div>
   </article>
   <article class="entry-card">
-    <a class="entry-art tracer-preview" href="https://github.com/runqiwang777/AlphaLens/blob/main/assets/AlphaLens.png" target="_blank" rel="noopener noreferrer" aria-label="Open the full-size AlphaLens project graphic"><img src="https://raw.githubusercontent.com/runqiwang777/AlphaLens/main/assets/AlphaLens.png" alt="AlphaLens research analysis workflow" loading="lazy"></a>
+    <a class="entry-art tracer-preview" href="https://github.com/runqiwang777/QuantGlean/blob/main/assets/QuantGlean.png" target="_blank" rel="noopener noreferrer" aria-label="Open the full-size AlphaLens project graphic"><img src="https://raw.githubusercontent.com/runqiwang777/QuantGlean/main/assets/QuantGlean.png" alt="QuantGlean research analysis workflow" loading="lazy"></a>
     <div class="entry-text">
-      <h3>🔎 <a href="https://github.com/runqiwang777/AlphaLens" target="_blank" rel="noopener noreferrer">AlphaLens</a></h3>
+      <h3>🔎 <a href="https://github.com/runqiwang777/QuantGlean" target="_blank" rel="noopener noreferrer">QuantGlean</a></h3>
       <p class="entry-date"><em>October 2026.<em></p>
-      <p>A lightweight research skill for analyzing quantitative reports and turning their methods, evidence, limitations, and potential alpha mechanisms into reusable notes.</p>
-      <p><a href="https://github.com/runqiwang777/AlphaLens/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View AlphaLens stars on GitHub"><img src="https://img.shields.io/github/stars/runqiwang777/AlphaLens?style=social" alt="AlphaLens GitHub stars"></a></p>
+      <p>A lightweight skill for extracting alpha insights from quantitative research reports.</p>
+      <p><a href="https://github.com/runqiwang777/QuantGlean/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View AlphaLens stars on GitHub"><img src="https://img.shields.io/github/stars/runqiwang777/QuantGlean?style=social" alt="QuantGlean GitHub stars"></a></p>
     </div>
   </article>
 </div>
