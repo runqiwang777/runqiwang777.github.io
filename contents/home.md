@@ -25,7 +25,7 @@ B.S. in Mathematics & Applied Mathematics and Artificial Intelligence · Sep 202
 
 ### 🔍 Research Interests
 
-My interests lie in **machine learning, AI agents, and quantitative finance**, especially theoretical decision-making and AI-driven quantitative research. On the theoretical side, I study sequential decisions such as multi-armed bandits and reinforcement learning. On the applied side, I explore statistical learning methods for financial modeling and data-driven investment decisions.
+My interests lie in **machine learning, AI agents, and quantitative finance**. My main research focuses on sequential decision-making, including deep learning-based model training and data/LLM-driven quantitative investment decisions. 
 
 ### 💻 Skills
 
