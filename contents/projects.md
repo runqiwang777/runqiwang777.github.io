@@ -2,9 +2,10 @@
   <article class="entry-card">
     <a class="entry-art tracer-preview" href="contents/images/tracer.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the full-size TRACER project graphic"><img src="contents/images/tracer.jpg" alt="TRACER project workflow infographic" loading="lazy"></a>
     <div class="entry-text">
-      <h3>🧩 TRACER: Typed Repair Agent with Compiler-validated Example Retrieval</h3>
+      <h3>🧩 <a href="https://github.com/runqiwang777/TRACER" target="_blank" rel="noopener noreferrer">TRACER: Typed Repair Agent with Compiler-validated Example Retrieval</a></h3>
       <p class="entry-date"><em>August 2026 – present.</em></p>
-      <p>A research toolkit for Lean 4 proof repair, failure reproduction, and evaluation, developed with collaborators.</p>
+      <p>A Lean 4 proof-repair and failure-reproduction toolkit connecting model-generated candidates with compiler feedback, retrieval, bounded retries, and auditable proof artifacts, developed with collaborators.</p>
+      <p><a href="https://github.com/runqiwang777/TRACER/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View TRACER stars on GitHub"><img src="https://img.shields.io/github/stars/runqiwang777/TRACER?style=social" alt="TRACER GitHub stars"></a></p>
     </div>
   </article>
   <article class="entry-card">
