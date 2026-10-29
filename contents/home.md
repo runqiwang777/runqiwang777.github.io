@@ -1,5 +1,5 @@
 <div class="social-links" aria-label="Profiles">
-  <a class="social scholar" href="https://scholar.google.com/citations?user=yVI9KikAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer"><iconify-icon class="social-logo" icon="simple-icons:googlescholar" aria-hidden="true"></iconify-icon>Google Scholar</a>
+  <a class="social scholar" href="https://scholar.google.com/citations?user=yVI9KikAAAAJ" target="_blank" rel="noopener noreferrer"><iconify-icon class="social-logo" icon="simple-icons:googlescholar" aria-hidden="true"></iconify-icon>Google Scholar</a>
   <a class="social orcid" href="https://orcid.org/0009-0009-0029-4575" target="_blank" rel="noopener noreferrer"><iconify-icon class="social-logo" icon="simple-icons:orcid" aria-hidden="true"></iconify-icon>ORCID</a>
   <a class="social openreview" href="https://openreview.net/profile?id=~Runqi_Wang5" target="_blank" rel="noopener noreferrer">OpenReview</a>
   <a class="social github" href="https://github.com/runqiwang777" target="_blank" rel="noopener noreferrer"><iconify-icon class="social-logo" icon="simple-icons:github" aria-hidden="true"></iconify-icon>GitHub</a>
