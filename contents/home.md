@@ -10,7 +10,7 @@
 
 ### 👋 Profile
 
-My name is **Runqi (Allen) Wang**. I am an undergraduate student at the [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**.
+My name is **Runqi Wang (Allen)**. I am an undergraduate student at the [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**.
 
 During my undergraduate studies, I have conducted research under the guidance of Prof. [Xutong Liu](https://xutongliu.me/), Prof. [Xuchuang Wang](https://xuchuangw.com/), and Prof. [Shuai Li](https://shuaili8.github.io/). I plan to join the PhD program in Statistics at SJTU in Fall 2027 under the supervision of Prof. [Yiqing Lin](https://qf.sjtu.edu.cn/en/about/members/lin/). I am interested in work connecting rigorous theory with real-world applications, and I am always happy to exchange ideas.
 
