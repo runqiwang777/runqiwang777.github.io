@@ -5,6 +5,7 @@
       <h3>🧩 <a href="https://github.com/runqiwang777/TRACER" target="_blank" rel="noopener noreferrer">TRACER</a></h3>
       <p class="entry-date"><em>August 2026 – present.</em></p>
       <p>A typed repair agent with compiler-validated example retrieval for Lean 4.</p>
+      <p><a href="https://runqiwang777.github.io/tracer/" target="_blank" rel="noopener noreferrer">Project website and interactive demo ↗</a></p>
       <p><a href="https://github.com/runqiwang777/TRACER/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View TRACER stars on GitHub"><img src="https://img.shields.io/github/stars/runqiwang777/TRACER?style=social" alt="TRACER GitHub stars"></a></p>
     </div>
   </article>
