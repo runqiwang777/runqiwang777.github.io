@@ -5,6 +5,7 @@
   <a href="https://github.com/runqiwang777"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
   <a href="https://www.kaggle.com/runqiallenwang"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&amp;logo=kaggle&amp;logoColor=white"></a>
   <a href="https://www.linkedin.com/in/runqi-wang-4352a03a7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="https://www.instagram.com/runqiwang777/" target="_blank" rel="noopener noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white"></a>
   <a href="https://x.com/allen_wrq" target="_blank" rel="noopener noreferrer"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&amp;logo=x&amp;logoColor=white"></a>
   <a href="https://www.xiaohongshu.com/user/profile/64ac022b000000001001ebb3"><img alt="Xiaohongshu" src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=flat-square&amp;logo=xiaohongshu&amp;logoColor=white"></a>
 </p>
