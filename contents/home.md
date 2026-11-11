@@ -31,4 +31,16 @@ My interests lie in **machine learning, AI agents, and quantitative finance**. M
 
 ### 💻 Skills
 
-Python, C++, MATLAB, R, Git, LaTeX, Linux, Lean, HTML, CSS, JavaScript
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&amp;logo=latex&amp;logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Lean-5B6C8F?style=flat-square" alt="Lean">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+</p>
