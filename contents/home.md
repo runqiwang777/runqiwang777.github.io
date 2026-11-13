@@ -23,7 +23,7 @@ I plan to join the PhD program in Statistics at SJTU in Fall 2027, proudly under
 ### 🎓 Education
 
 **Shanghai Jiao Tong University**  
-Ph.D. in Statistics · Sep 2027 – Jun 2032 (expected)
+Ph.D. in Statistics · Sep 2027 – Jun 2032 (expected), advised by Prof. [Yiqing Lin](https://qf.sjtu.edu.cn/en/about/members/lin/)
 
 **Shanghai Jiao Tong University**  
 B.S. in Mathematics & Applied Mathematics and Artificial Intelligence · Sep 2023 – Jun 2027 (expected)
