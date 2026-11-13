@@ -25,6 +25,9 @@ I plan to join the PhD program in Statistics at SJTU in Fall 2027, proudly under
 **Shanghai Jiao Tong University**  
 B.S. in Mathematics & Applied Mathematics and Artificial Intelligence · Sep 2023 – Jun 2027 (expected)
 
+**Shanghai Jiao Tong University**  
+Ph.D. in Statistics · Sep 2027 – Jun 2032 (expected)
+
 ### 🔍 Research Interests
 
 My interests lie in **machine learning, AI agents, and quantitative finance**. My main research focuses on sequential decision-making, including deep learning-based model training and data/LLM-driven quantitative investment decisions. 
