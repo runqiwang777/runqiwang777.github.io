@@ -50,9 +50,6 @@ My interests lie in **machine learning, AI agents, and quantitative finance**. M
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/JAX-9A5BFF?style=flat-square&amp;logo=jax&amp;logoColor=white" alt="JAX">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face">
 </p>
