@@ -35,21 +35,21 @@ My interests lie in **machine learning, AI agents, and quantitative finance**. M
 ### 💻 Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&amp;logo=latex&amp;logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Lean-5B6C8F?style=flat-square" alt="Lean">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/MATLAB-0EA5E9?style=flat-square&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/R-06B6D4?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Git-14B8A6?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/LaTeX-22C55E?style=flat-square&amp;logo=latex&amp;logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Linux-84CC16?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Lean-EAB308?style=flat-square" alt="Lean">
+  <img src="https://img.shields.io/badge/HTML5-F97316?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-EF4444?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-A855F7?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-8B5CF6?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Hugging%20Face-EC4899?style=flat-square&amp;logo=huggingface&amp;logoColor=white" alt="Hugging Face">
 </p>
