@@ -1,6 +1,6 @@
 <div class="entry-list">
   <article class="entry-card publication-card">
-    <div class="entry-art publication-art bandits-art" aria-hidden="true"><span>U</span><small>Unlearning Bandits</small></div>
+    <div class="entry-art publication-art bandits-art" aria-hidden="true"><span>Bandit Unlearning</span><small>Unlearning Stochastic Multi-Armed Bandits</small></div>
     <div class="entry-text">
       <h3>📘 <a href="https://arxiv.org/abs/2605.00638" target="_blank" rel="noopener noreferrer">Unlearning Stochastic Multi-Armed Bandits with Offline Data</a></h3>
       <p>Zichun Ye*, <strong>Runqi Wang*</strong>, Xuchuang Wang, Xutong Liu, Yiqing Lin, Shuai Li, Mohammad Hajiesmaili.</p>
